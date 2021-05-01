@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ohSnap/static/css/main.a6da3a65.chunk.css",
+    "main.js": "/ohSnap/static/js/main.c78649ed.chunk.js",
+    "main.js.map": "/ohSnap/static/js/main.c78649ed.chunk.js.map",
+    "runtime-main.js": "/ohSnap/static/js/runtime-main.32a16903.js",
+    "runtime-main.js.map": "/ohSnap/static/js/runtime-main.32a16903.js.map",
+    "static/js/2.ebf8a0ec.chunk.js": "/ohSnap/static/js/2.ebf8a0ec.chunk.js",
+    "static/js/2.ebf8a0ec.chunk.js.map": "/ohSnap/static/js/2.ebf8a0ec.chunk.js.map",
+    "index.html": "/ohSnap/index.html",
+    "static/css/main.a6da3a65.chunk.css.map": "/ohSnap/static/css/main.a6da3a65.chunk.css.map",
+    "static/js/2.ebf8a0ec.chunk.js.LICENSE.txt": "/ohSnap/static/js/2.ebf8a0ec.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/ohSnap/static/media/0.b18c130d.jpg",
+    "static/media/1.jpg": "/ohSnap/static/media/1.ffe481f4.jpg",
+    "static/media/2.jpg": "/ohSnap/static/media/2.da4d6061.jpg",
+    "static/media/3.jpg": "/ohSnap/static/media/3.dd376ef9.jpg",
+    "static/media/4.jpg": "/ohSnap/static/media/4.ed3b1a69.jpg",
+    "static/media/cover-image.533ae8f6.jpg": "/ohSnap/static/media/cover-image.533ae8f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32a16903.js",
+    "static/js/2.ebf8a0ec.chunk.js",
+    "static/css/main.a6da3a65.chunk.css",
+    "static/js/main.c78649ed.chunk.js"
+  ]
+}
